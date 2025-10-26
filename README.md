@@ -1,2 +1,12 @@
-# webnode
-WebNode - Open Implemention of WebContainers with Real FileSystem Access.
+# OpenWebContainers
+```javascript
+import "web-container";
+
+const process = document.querySelector("#process");
+
+await process.init();
+```
+
+```html
+<web-container id="process"></web-container>
+```
