@@ -1,12 +1,5 @@
-# OpenWebContainers
-```javascript
-import "web-container";
+# Mumbo
+Node.js & Git bundle on pure web.
 
-const process = document.querySelector("#process");
-
-await process.init();
-```
-
-```html
-<web-container id="process"></web-container>
-```
+## Usage
+Access [ihasq.github.io/mumbo](https://ihasq.github.io/mumbo).
